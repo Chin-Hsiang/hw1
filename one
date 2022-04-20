@@ -53,6 +53,6 @@ void draw(){
    text( "area:"+ ((Secx-fstx)+ (Foux-THx))*(THy-fsty)/2, fstx,fsty-10);
    
   }
-  
+ 
   
 }
